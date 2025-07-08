@@ -1,1 +1,1 @@
-Asteroids 1979 arcade game project, no commits since at first i wasn't going to publish it on github.
+Asteroids 1979 arcade game project.
